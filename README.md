@@ -6,7 +6,7 @@ new to github
 
 `null` and undefined
 
-```
+```javascript
 var someCode;
 ```
 
